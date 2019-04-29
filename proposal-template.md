@@ -2,9 +2,7 @@
 ## Super Catchy Slogan
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
+* Liu Haohui
 
 Feel free to change the headers, but do address the points raised. 
 
